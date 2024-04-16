@@ -1,3 +1,4 @@
+#Adding Cluster Endpoint Access
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 
