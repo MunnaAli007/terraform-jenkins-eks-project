@@ -1,2 +1,4 @@
+
+#exclude .tf config from local
 .terraform/*
 .terraform.lock.hcl
