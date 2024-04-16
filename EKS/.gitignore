@@ -1,2 +1,3 @@
+#exclude .tf config
 .terraform/*
 .terraform.lock.hcl
