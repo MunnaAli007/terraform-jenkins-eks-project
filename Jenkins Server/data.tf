@@ -1,3 +1,4 @@
+# aws id's
 data "aws_ami" "example" {
   most_recent = true
   owners      = ["amazon"]
