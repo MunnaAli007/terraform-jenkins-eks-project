@@ -1,3 +1,4 @@
+#backend store config 
 terraform {
   backend "s3" {
     bucket = "cicd-terraform-eks"
